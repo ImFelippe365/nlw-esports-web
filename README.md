@@ -1,4 +1,4 @@
-# NLW eSports Web ![Badge](https://img.shields.io/static/v1?label=tailwindcss&message=v3.1.8&color=lightblue&style=flat&logo=TAILWINDCSS) ![Badge](https://img.shields.io/static/v1?label=react&message=v18.2.0&color=blue&style=flat&logo=REACT) ![Badge](https://img.shields.io/static/v1?label=typescript&message=v4.7.4&color=blue&style=flat&logo=TYPESCRIPT)
+# NLW eSports Web ![Badge](https://img.shields.io/static/v1?label=tailwindcss&message=v3.1.8&color=lightblue&style=flat&logo=TAILWINDCSS)  ![Badge](https://img.shields.io/static/v1?label=vitejs&message=v3.1.8&color=purple&style=flat&logo=VITE) ![Badge](https://img.shields.io/static/v1?label=react&message=v18.2.0&color=blue&style=flat&logo=REACT) ![Badge](https://img.shields.io/static/v1?label=typescript&message=v4.7.4&color=blue&style=flat&logo=TYPESCRIPT)
  
 <br />
 <p align="center">
