@@ -2,7 +2,7 @@
  
 <br />
 <p align="center">
-  <img src="https://github.com/ImFelippe365/nlw-esports-web/blob/main/src/assets/logo-nlw-esports.svg" />
+  <img src="https://github.com/ImFelippe365/nlw-esports-mobile/blob/main/src/assets/logo-nlw-esports%402x.png" />
 </p>
 <br />
 
@@ -27,6 +27,13 @@ O projeto foi integrado utilizando a API que desenvolvi durante o evento. É nec
 - TailwindCSS
 - Vitejs
 - TypeScript
+
+## Futuras melhorias
+
+- [ ] Tornar responsivo
+- [ ] Autenticação
+- [ ] Verificação dos campos
+- [x] Carrossel de jogos
 
 ## Instalação
 
