@@ -2,7 +2,7 @@
  
 <br />
 <p align="center">
-  <img src="src/assets/logo-nlw-esports@2x.png" />
+  <img src="https://github.com/ImFelippe365/nlw-esports-web/blob/main/src/assets/logo-nlw-esports.svg" />
 </p>
 <br />
 
