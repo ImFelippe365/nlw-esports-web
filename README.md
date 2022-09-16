@@ -6,7 +6,7 @@
 </p>
 <br />
 
-Plataforma web para encontrar um duo e se conectar para jogar juntos. 
+Plataforma web para encontrar um duo criando um anúncio do jogo desejado. 
 É possível criar anúncios de um jogo em específico dentro da plataforma para que as pessoas o encontrem e se conectem para jogarem juntos! 
 
 Durante o evento do NLW da Rocketseat, essa foi a aplicação a ser desenvolvida durante o evento.
